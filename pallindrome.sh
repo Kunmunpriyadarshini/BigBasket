@@ -14,3 +14,4 @@ else
  fi #!/bin/bash
 
 This is a program which is going 
+i like to write a code which is going to check a number is even or odd
